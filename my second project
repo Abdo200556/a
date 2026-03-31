@@ -1,0 +1,51 @@
+<html>
+<head>
+    <link rel="stylesheet" href="css/style.css" >
+    <title>first project</title>
+</head>
+<body>
+    <h1>Welcome to My first abdallah's project</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sequi minus, repellendus vel sed quas ea ab ad aspernatur incidunt impedit, optio odio. Saepe, ab nisi exercitationem qui nesciunt delectus?</p>
+    <button>Click me</button>
+    <hr>
+     <a href="https://www.udemy.com/course/red-teaming/learn/lecture/48309065#overview" target="_blank">udemy</a>
+</body>
+     <br>
+     <hr>
+    <img src="images/asus.jpg" alt="image" width="500" height="500">
+    <br>
+    <hr>
+    <iframe width="752" height="432" src="https://www.youtube.com/embed/IxsJEffQAZA" title="أعظم طائرة حربية | الدحيح" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <hr>
+    <form>
+        <label > username:
+            <input type="password" name="username" placeholder="enter your username">
+        </label>
+        <label> gender:
+            <input type ="radio" name="mm" value="male"> male
+            <input type ="radio" name="mm" value="female"> female
+        </label> 
+        <br>
+        <hr>
+        <label> get your  phone brand:
+            <input type = "checkbox" name="mm"> iphone
+             <input type = "checkbox"> samsung
+              <input type = "checkbox"> huawei
+               <input type = "checkbox"> xiaomi
+                <input type = "checkbox"> oppo
+                 <input type = "checkbox"> vivo
+            <input type = "checkbox"> other
+         </label>
+    </form>
+    <br>
+    <hr>
+
+</html>
+h1{
+    color: red;
+}
+body
+{
+    background-color: black;
+    color:blue
+}
